@@ -1,0 +1,49 @@
+/* Configura o estilo da p gina */
+body 
+{
+
+    background-image: url(https://i.pinimg.com/736x/d7/09/4b/d7094bbfdb19b3d80cdba306b829fe61.jpg);
+    background-size: cover;
+    font-family: "Alice", serif;
+    font-weight: 400;
+    font-style: bold;
+}
+
+#page 
+{
+    width: 10;
+    margin: 80px auto;
+    background-color: rgba(199, 159, 126, 0.9);
+    padding: 100px 50px;
+    border-radius: 50px;
+}
+
+img 
+{
+    size 100px;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+/* Configura o estilo dos links */
+a 
+{
+    color: rgb(136, 87, 52);
+}
+
+/* Configura o estilo dos títulos */
+h1 
+{
+    font-size: 50px;
+    color: rgb(84, 45, 17);
+    text-align: center;
+}
+h2 
+{
+    font-size: 40px;
+    color: rgb(84, 45, 17);
+    text-align: center;
+}
+
